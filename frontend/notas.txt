@@ -1,0 +1,7 @@
+api token:
+
+secret_uYm6PlkZ3q7YMVqHruYJmohfg4qU8cTaLx9L7jc9K8Z
+
+table id:
+
+118213a4707d441096debe88a34dc386
